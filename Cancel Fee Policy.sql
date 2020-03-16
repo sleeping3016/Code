@@ -1,3 +1,5 @@
+---- SQL Server 2019 code
+
 -- schema
 
 exec sp_help lyft_data
